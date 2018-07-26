@@ -1,3 +1,6 @@
+## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/43f149d2/HTML/Assessment%2001%20-%20Marking%20up%20a%20letter/letter-text.html)
+
+
 # Project brief
 For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to work at the university.
 
