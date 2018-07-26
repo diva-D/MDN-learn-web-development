@@ -4,7 +4,6 @@ Course Link: [Learn web development](https://developer.mozilla.org/en-US/docs/Le
 
 This repository holds the exercises and projects from the MDN "Learn web development" course.
 
-The main topic areas are:
-- HTML
-- CSS
-- Javascript
+## HTML
+- Assessment: Marking up a letter
+  - [Project Brief](Assessment 01 - Marking up a letter/project-brief.md)
