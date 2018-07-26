@@ -20,3 +20,7 @@ You need to add a suitable wrapper for:
 You should also:
 
 - Apply the provided CSS to the page by adding another `<link>` element just below the existing one provided at the start.
+
+The final page should look like this:
+
+![Final website image](final-page.png)

@@ -29,7 +29,7 @@ Just inside the `<article>` element (right below the opening tag), embed the You
 
 ## Adding responsive images to the further info links
 
-Inside the `<div>` with the class of further-info you will find four <a> elements — each one linking to an interesting Mozilla-related page. To complete this section you'll need to insert an `<img>` element inside each one containing appropriate src, alt, srcset and sizes attributes.
+Inside the `<div>` with the class of further-info you will find four `<a>` elements — each one linking to an interesting Mozilla-related page. To complete this section you'll need to insert an `<img>` element inside each one containing appropriate src, alt, srcset and sizes attributes.
 
 In each case (except one — which one is inherently responsive?) we want the browser to serve the 120px wide version when the viewport width is 480px wide or less, or the 400px wide version otherwise.
 
@@ -41,3 +41,9 @@ Make sure you match the correct images with the correct links!
 
 Inside the `<div>` with the class of red-panda, we want to insert a `<picture>` element that serves the small portrait panda image if the viewport is 600px wide or less, and the large landscape image otherwise.
 
+
+The following screenshots show what the splash page should look like after being correctly marked up, on a wide and narrow screen display.
+
+![Final wide](final-wide.png)
+
+![Final narrow](final-narrow.png)
