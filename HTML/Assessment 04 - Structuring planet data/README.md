@@ -1,4 +1,4 @@
-## [View Final Project]()
+## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/ba7718c9/HTML/Assessment%2004%20-%20Structuring%20planet%20data/planets-data.html)
 
 # Project Brief
 
