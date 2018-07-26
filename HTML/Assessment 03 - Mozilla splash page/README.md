@@ -1,3 +1,5 @@
+## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/ec327267/HTML/Assessment%2003%20-%20Mozilla%20splash%20page/index.html)
+
 # Project brief
 
 In this assessment we are presenting you with a mostly-finished Mozilla splash page, which aims to say something nice and interesting about what Mozilla stands for, and provide some links to further resources. Unfortunately, no images or video have been added yet — this is your job! You need to add some media to make the page look nice and make more sense. The following subsections detail what you need to do:
