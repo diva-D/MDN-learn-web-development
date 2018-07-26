@@ -1,3 +1,5 @@
+## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/1e3ed22a/HTML/Assessment%2002%20-%20Structuring%20a%20page%20of%20content/index-edits.html)
+
 # Project brief
 
 For this project, your task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it. It needs to have:
