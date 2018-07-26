@@ -6,4 +6,4 @@ This repository holds the exercises and projects from the MDN "Learn web develop
 
 ## HTML
 - Assessment: Marking up a letter
-  - [Project Brief](Assessment%2001%20-%20Marking%20up%20a%20letter/project-brief.md)
+  - [Project Brief](HTML/Assessment%2001%20-%20Marking%20up%20a%20letter/project-brief.md)
