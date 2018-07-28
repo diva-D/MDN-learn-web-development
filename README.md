@@ -12,3 +12,12 @@ This repository holds the exercises and projects from the MDN "Learn web develop
     - Assessment: Mozilla splash page - [Link to Project](HTML/Assessment%2003%20-%20Mozilla%20splash%20page)
 - **Tables**
     - Assessment: Structuring planet data - [Link to Project](HTML/Assessment%2004%20-%20Structuring%20planet%20data)
+
+## CSS
+- **Styling the Web**
+    - Assessment: Fundamental CSS comprehension - [Link to Project](https://github.com/diva-D/MDN-learn-web-development/tree/master/CSS/Assessment%2001%20-%20Fundamental%20CSS%20comprehension)
+- **Styling text**
+    - Assessment: Typesetting a community school homepage - [Link to Project]()
+- **Styling boxes**
+    - Assessment: Creating fancy letterheaded paper - [Link to Project]()
+    - Assessment: Assessment: A cool-looking box - [Link to Project]()

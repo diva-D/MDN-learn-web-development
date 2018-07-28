@@ -1,4 +1,4 @@
-[View Final Project]()
+[View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/ed5afeb9/CSS/Assessment%2001%20-%20Fundamental%20CSS%20comprehension/index.html)
 
 # Project brief
 You have been provided with some raw HTML and an image, and need to write the necessary CSS to style this into a nifty little online business card, which can perhaps double as a gamer card or social media profile. The following sections describe what you need to do.
