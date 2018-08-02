@@ -17,7 +17,7 @@ This repository holds the exercises and projects from the MDN "Learn web develop
 - **Styling the Web**
     - Assessment: Fundamental CSS comprehension - [Link to Project](https://github.com/diva-D/MDN-learn-web-development/tree/master/CSS/Assessment%2001%20-%20Fundamental%20CSS%20comprehension)
 - **Styling text**
-    - Assessment: Typesetting a community school homepage - [Link to Project]()
+    - Assessment: Typesetting a community school homepage - [Link to Project](https://github.com/diva-D/MDN-learn-web-development/tree/master/CSS/Assessment%2002%20-%20Typesetting%20a%20community%20school%20homepage)
 - **Styling boxes**
     - Assessment: Creating fancy letterheaded paper - [Link to Project]()
     - Assessment: Assessment: A cool-looking box - [Link to Project]()

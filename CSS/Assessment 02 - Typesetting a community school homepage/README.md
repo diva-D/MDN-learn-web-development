@@ -1,4 +1,4 @@
-## [View Final Project]()
+## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/451a96da/CSS/Assessment%2002%20-%20Typesetting%20a%20community%20school%20homepage/index.html)
 
 
 # Project brief
