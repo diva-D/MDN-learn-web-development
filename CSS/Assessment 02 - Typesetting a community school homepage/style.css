@@ -118,6 +118,12 @@ a:hover {
   text-decoration: underline;
 }
 
+a[href^="http"] {
+  background: url('external-link-52.png') no-repeat 100% 0;
+  background-size: 12px 12px;
+  padding-right: 14px;
+}
+
 /* Lists */
 
 li {
