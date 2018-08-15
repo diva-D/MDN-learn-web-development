@@ -1,4 +1,4 @@
-## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/43f149d2/HTML/Assessment%2001%20-%20Marking%20up%20a%20letter/letter-text.html)
+## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/36375600/JavaScript/Assessment%2001%20-%20Silly%20Story%20Generator/index.html)
 
 
 # Project brief
