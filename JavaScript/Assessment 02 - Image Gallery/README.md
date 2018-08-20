@@ -1,4 +1,4 @@
-## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/36375600/JavaScript/Assessment%2001%20-%20Silly%20Story%20Generator/index.html)
+## [View Final Project](https://cdn.rawgit.com/diva-D/MDN-learn-web-development/30a4f023/JavaScript/Assessment%2002%20-%20Image%20Gallery/index.html)
 
 
 # Project brief
