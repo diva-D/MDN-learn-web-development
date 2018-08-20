@@ -25,3 +25,5 @@ This repository holds the exercises and projects from the MDN "Learn web develop
 ## JavaScript
 - **First Steps**
     - Assessment: Silly story generator - [Link to Project](https://github.com/diva-D/MDN-learn-web-development/tree/master/JavaScript/Assessment%2001%20-%20Silly%20Story%20Generator)
+- **Building Blocks**
+    - Assessment: Image Gallery - [Link to Project](https://github.com/diva-D/MDN-learn-web-development/tree/master/JavaScript/Assessment%2002%20-%20Image%20Gallery)
